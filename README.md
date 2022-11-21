@@ -26,7 +26,7 @@ Run a factor analysis in lavaan and show the output.
 
 ### 7 Goodness of fit
 
-Does this model seem to represent the data well? Argue with the goodness of fit measures.
+How well does this model represent the data? 
 
 ### 8 Factor loadings
 
