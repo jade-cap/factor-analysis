@@ -1,6 +1,6 @@
 # Factor Analysis
 
-I am a second-year master's student in strategic marketing and analytics, and I am using GitHub to showcase my progress with data analysis throughout the duration of the course. Here, I will be using the dataset embedded into the lavaan package, in R.
+I am a second-year master's student in strategic marketing and analytics. I am using GitHub to showcase my progress with data analysis throughout the duration of the course. Here, I will be using the dataset embedded into the lavaan package, in R.
 
 ## Tasks include
 
